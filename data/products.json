@@ -1,0 +1,22 @@
+{
+  "array": [
+    {
+      "name": "Nike Airforce 01 High azules",
+      "description": "Calzado urbano Nike",
+      "thumbnail": "https://www.runningcorrer.com.ar/wprunning/wp-content/uploads/2017/11/Nike-Air-Force-1-Negra-35-aniversario.jpg",
+      "price": 120,
+      "stock": 2,
+      "timestamp": 1645708478205,
+      "id": 0
+    },
+    {
+      "name": "Buzito",
+      "description": "Calzado urbano Nike",
+      "thumbnail": "https://www.runningcorrer.com.ar/wprunning/wp-content/uploads/2017/11/Nike-Air-Force-1-Negra-35-aniversario.jpg",
+      "price": 120,
+      "stock": 2,
+      "timestamp": 1645709250935,
+      "id": 1
+    }
+  ]
+}
